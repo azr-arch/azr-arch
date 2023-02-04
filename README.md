@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @azr-arch
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning python 
+- skills: html, css, js, python
+- 🌱 I’m currently learning node 
 - 💞️ I’m looking to collaborate on opensource beginner projects 
 - 📫 How to reach me malikazar44@gmail.com
 
