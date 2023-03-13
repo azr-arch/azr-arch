@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @azr-arch
+- 👋 Hi, I’m Azar malik
+- 3rd year CS student from LDC institute, prayagraj - UP, india
 - 👀 I’m interested in programming 
 - skills: html, css, js, python
 - 🌱 I’m currently learning react 
