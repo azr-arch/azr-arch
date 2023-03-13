@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Azar malik
-- 3rd year CS student from LDC institute, prayagraj - UP, india
+- 🎓 3rd year CS student from LDC institute, prayagraj - UP, india
 - 👀 I’m interested in programming 
-- skills: html, css, js, python
+- 🔧 html, css, js, python
 - 🌱 I’m currently learning react 
 - 💞️ I’m looking to collaborate on opensource beginner projects 
 - 📫 How to reach me malikazar44@gmail.com
