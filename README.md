@@ -9,6 +9,8 @@ I am always eager to learn new things and collaborate on exciting projects.
 Feel free to reach out if you'd like to connect or work together on something!
 
 
+[![An image of @azrarch's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/azrarch)](https://holopin.io/@azrarch)
+
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
