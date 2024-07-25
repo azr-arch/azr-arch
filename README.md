@@ -28,7 +28,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azr-arch&label=Profile%20views&color=0e75b6&style=flat" alt="azr-arch" /> </p>
 
-- 🔭 I’m currently working on [Chat App](https://github.com/azr-arch/chat-app-v2)
+- 🔭 I’m currently working on [Todoist clone](https://github.com/azr-arch/todoist-clone)
 
 - 🌱 I’m currently learning **Typescript && Rust**
 
