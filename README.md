@@ -13,7 +13,6 @@
 - 🌱 **Leveling Up**: Mastering **Three.js** for 3D web magic  
 - 💬 **Let’s Talk**: JavaScript, WebSockets, or anything tech!  
 - 📫 **Ping Me**: [malikazar44@gmail.com](mailto:malikazar44@gmail.com)  
-- 📄 **My Journey**: [Check out my resume](https://azr-resume.tiiny.site/)  
 - 👀 **Profile Views**: <img src="https://komarev.com/ghpvc/?username=azr-arch&label=Views&color=0e75b6&style=flat" alt="profile views" />
 
 ---
