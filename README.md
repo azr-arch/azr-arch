@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-<b align="center" >Developer | Eager to Contribute to Real-World Projects</b>
+<b align="center" >I try to build cool stuff | Fullstack Web Developer</b>
     
 </div>
 
