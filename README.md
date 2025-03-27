@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-<b align="center" >Self-Taught Code Enthusiast | Eager to Contribute to Real-World Projects</b>
+<b align="center" >Fullstack Web Developer | Eager to Contribute to Real-World Projects</b>
     
 </div>
 
@@ -12,8 +12,8 @@
   <a href="https://www.linkedin.com/in/azar-malik-8968a419a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/azar_arch" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://x.com/azar_arch" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://discordapp.com/users/1056101232516796498" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
@@ -28,17 +28,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azr-arch&label=Profile%20views&color=0e75b6&style=flat" alt="azr-arch" /> </p>
 
-- 🔭 I’m currently working on [Todoist clone](https://github.com/azr-arch/todoist-clone)
+- 🔭 I’m currently working on [Eventique](https://github.com/azr-arch/event-booking-web)
 
-- 🌱 I’m currently learning **Typescript && Rust**
+- 🌱 I’m currently learning **Three.Js**
 
 - 💬 Ask me about **javascript and websockets**
 
 - 📫 How to reach me **malikazar44@gmail.com**
 
 - 📄 Know about my experiences [https://azr-resume.tiiny.site/](https://azr-resume.tiiny.site/)
-
-- ⚡ Fun fact **Did you know? The first computer bug was an actual insect!**
 
 ###
 
@@ -71,7 +69,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
